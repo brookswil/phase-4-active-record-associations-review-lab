@@ -1,0 +1,15 @@
+current directory: /home/brooks88/Development/school-work/mod4/active_record_associations_review/phase-4-active-record-associations-review-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220203-21892-o36bi2.rb extconf.rb
+creating Makefile
+
+current directory: /home/brooks88/Development/school-work/mod4/active_record_associations_review/phase-4-active-record-associations-review-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/brooks88/Development/school-work/mod4/active_record_associations_review/phase-4-active-record-associations-review-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/brooks88/Development/school-work/mod4/active_record_associations_review/phase-4-active-record-associations-review-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= install
+/bin/install -m 0755 websocket_mask.so ./.gem.20220203-21892-1ojsajb
